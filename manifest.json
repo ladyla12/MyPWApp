@@ -1,0 +1,17 @@
+{
+  "name": "My PWApplication",
+  "short_name": "MyPWA",
+  "theme_color": "#1e04f1",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "/images/rogicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
